@@ -29,6 +29,8 @@ g.lazcdn.com
 # https://github.com/217heidai/adblockfilters/issues/108
 wtradv.market.xiaomi.com
 api.comm.miui.com
+# https://github.com/217heidai/adblockfilters/issues/108
+cnbj1.fds.api.xiaomi.com
 # https://github.com/217heidai/adblockfilters/issues/105
 api.vip.miui.com
 # https://github.com/217heidai/adblockfilters/issues/92
