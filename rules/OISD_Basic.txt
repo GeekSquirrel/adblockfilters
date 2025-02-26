@@ -1,10 +1,10 @@
 [Adblock Plus]
-! Version: 202502260708
+! Version: 202502261209
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 44277
-! Last modified: 2025-02-26T07:08:36+0000
+! Entries: 44260
+! Last modified: 2025-02-26T12:09:16+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -2333,7 +2333,6 @@
 ||acrepantherrecite.com^
 ||acrh.be^
 ||acridbloatparticularly.com^
-||acridtaxiworking.com^
 ||acrityezra.shop^
 ||acrossbrittle.com^
 ||acrosscountenanceaccent.com^
@@ -7605,7 +7604,6 @@
 ||baylnk.com^
 ||bayonetbaptism.com^
 ||baywednesday.com^
-||baywigsign.live^
 ||bazamodov.ru^
 ||bb.lekumo.jp^
 ||bb73db8996.7857ab56f4.com^
@@ -7805,7 +7803,6 @@
 ||becomeapartner.io^
 ||becomeobnoxiousturk.com^
 ||becomesfusionpriority.com^
-||becomesobtrusive.com^
 ||becominggunpowderpalette.com^
 ||becorsolaom.com^
 ||becrustleom.com^
@@ -21695,7 +21692,6 @@
 ||inhospitablemasculinerasp.com^
 ||inhumanswancondo.com^
 ||init.blackcrow.ai^
-||initiallycompetitionunderwear.com^
 ||initiategunpowder.com^
 ||injuredjazz.com^
 ||injuredripplegentleman.com^
@@ -22345,7 +22341,6 @@
 ||jbm6c54upkui.com^
 ||jbrlsr.com^
 ||jbtul.com^
-||jbzmwqmwqyleb.top^
 ||jc1.dayfund.com.cn^
 ||jc32arlvqpv8.com^
 ||jclrwjceymgec.com^
@@ -22473,7 +22468,6 @@
 ||jighucme.com^
 ||jigsawchristianlive.com^
 ||jigsawthirsty.com^
-||jiidanypxfg.com^
 ||jijqzypmeqi.com^
 ||jikbwoozvci.com^
 ||jikicotho.pro^
@@ -22731,7 +22725,6 @@
 ||jtegqwmjfxu.site^
 ||jthotb.icu^
 ||jtiasfkkg.xyz^
-||jtmwjbgoz.com^
 ||jtp.expressen.se^
 ||jtracking-gate.lulusoft.com^
 ||jtracking.lulusoft.com^
@@ -25296,7 +25289,6 @@
 ||mapss.icu^
 ||maquiags.com^
 ||marapcana.online^
-||marasgumpus.com^
 ||marazma.com^
 ||marbleborrowedours.com^
 ||marcherfilippo.com^
@@ -31569,7 +31561,6 @@
 ||pushlat.com^
 ||pushlinck.com^
 ||pushlnk.com^
-||pushlommy.com^
 ||pushlum.com^
 ||pushmejs.com^
 ||pushmenews.com^
@@ -31805,7 +31796,6 @@
 ||qituduwios.com^
 ||qiuaiea.com^
 ||qivaiw.com^
-||qivaqhtb.com^
 ||qiyegongqiu1.qiyegongqiu.com^
 ||qizjkwx9klim.com^
 ||qjmlmaffrqj.com^
@@ -31817,7 +31807,6 @@
 ||qkjlwdkk.com^
 ||qkscga.xyz^
 ||qksrv.cc^
-||qkyliljavzci.com^
 ||qkyojtlabrhy.com^
 ||ql.uzuzuz.com^
 ||qlfqkjluvz.com^
@@ -34086,7 +34075,6 @@
 ||sailorjav128.fun^
 ||sailorlanceslap.com^
 ||saintlyyaupons.top^
-||saintselfish.com^
 ||saipeevit.net^
 ||saiphoogloobo.net^
 ||saipsoan.net^
@@ -35221,7 +35209,6 @@
 ||similarpresence.com^
 ||simplebrutedigestive.com^
 ||simpli.fi^
-||simplistic-king.pro^
 ||simplyscepticaltoad.com^
 ||simpunok.com^
 ||sinatraquonset.click^
@@ -38132,7 +38119,6 @@
 ||telemetry.vtex.com^
 ||teleport.soom.la^
 ||telescopesemiprominent.com^
-||televeniesuc.pro^
 ||televisionjitter.com^
 ||teliad.de^
 ||telllwrite.com^
@@ -40981,7 +40967,6 @@
 ||vaikijie.net^
 ||vaimoogegry.net^
 ||vaimucuvikuwu.net^
-||vainermaxixe.com^
 ||vainfulkmole.com^
 ||vainjav11.fun^
 ||vaipsona.com^
@@ -42547,7 +42532,6 @@
 ||wkabios.icu^
 ||wkclick.baidu.com^
 ||wkctj.baidu.com^
-||wkgdkktlymar.xyz^
 ||wkjyxcheng.top^
 ||wkoocuweg.com^
 ||wkpgetvhidtj.com^
@@ -42699,7 +42683,6 @@
 ||worldlyyouth.com^
 ||worldpraisedcloud.com^
 ||worldsportlife.com^
-||worldstarries.com^
 ||worldswanmixed.com^
 ||worldtimes2.xyz^
 ||worldtraffic.trade^
