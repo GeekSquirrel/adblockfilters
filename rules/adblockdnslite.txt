@@ -8,6 +8,7 @@
 ! Blocked domains: 6090
 ! unBlocked domains: 16
 !
+@@||cnbj1.fds.api.xiaomi.com^$important
 ||kwcdn.000dn.com^
 ||kwcscdn.000dn.com^
 ||kwflvcdn.000dn.com^
